@@ -1,0 +1,26 @@
+Open Headunit 3.3.0 — third-party application
+
+Original release: https://github.com/andreknieriem/open-headunit/releases/tag/v.3.3.0
+Original asset: com.andrerinas.headunitrevived_3.3.0.apk
+Local filename: OpenHeadunit-3.3.0.apk
+Package: com.andrerinas.headunitrevived
+Version code: 103
+Minimum Android API: 16
+Supported ABIs: armeabi-v7a, arm64-v8a, x86, x86_64
+
+The original APK has not been modified or re-signed.
+SHA-256 verified against the digest published by the GitHub Releases API:
+7ff35f89332950b6a8b3a497e37a2f13633fa9de9b53a98b2a127bdead3f366a
+APK signing certificate SHA-256:
+615bc3c7a74839918d01517e49397f503a5473f89266af55a26d485c1e86155d
+
+Upstream source for this release:
+https://github.com/andreknieriem/open-headunit/tree/v.3.3.0
+Source archive:
+https://github.com/andreknieriem/open-headunit/archive/refs/tags/v.3.3.0.zip
+Project license: GNU Affero General Public License, version 3.
+The upstream license is included as OPENHEADUNIT-LICENSE.txt.
+See upstream source for component notices and attribution, including the original Michael Reid headunit project.
+
+Navi 진단 remains a separate application. It launches this app through its exported activity and documented URI commands.
+Installation, USB/Wi-Fi operation, decoding performance, audio routing and camera coexistence on the actual Finedrive iQ 3 have not yet been verified.
